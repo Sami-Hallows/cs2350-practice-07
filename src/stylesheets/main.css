@@ -1,2 +1,12 @@
 /* TODO */
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+* {
+    box-sizing: border-box;
+}
+
+/* TODO */
+
+body {
+    background-color: beige;
+}
